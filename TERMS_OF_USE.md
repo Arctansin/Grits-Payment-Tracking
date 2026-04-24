@@ -2,8 +2,8 @@
 
 **App Name:** Grits Payment Tracker
 **Developer:** Mingming Li
-**Last Updated:** April 23, 2026
-**Contact:** grits.0119@gmail.com
+**Last Updated:** April 24, 2026  
+**Contact:** [grits.0119@gmail.com](mailto:grits.0119@gmail.com)
 
 ---
 
@@ -39,7 +39,7 @@ To use cloud sync features, you must create an account using a valid email addre
 
 - Keeping your login credentials confidential
 - All activity that occurs under your account
-- Notifying us immediately at **grits.0119@gmail.com** if you suspect unauthorized access to your account
+- Notifying us immediately at **[grits.0119@gmail.com](mailto:grits.0119@gmail.com)** if you suspect unauthorized access to your account
 
 We reserve the right to suspend or terminate accounts that violate these Terms.
 
@@ -155,7 +155,7 @@ We may revise these Terms from time to time. When we do, we will update the "Las
 For questions about these Terms, contact:
 
 **Mingming Li**
-Email: **grits.0119@gmail.com**
+Email: **[grits.0119@gmail.com](mailto:grits.0119@gmail.com)**
 
 ---
 

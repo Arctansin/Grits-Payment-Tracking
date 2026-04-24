@@ -2,8 +2,8 @@
 
 **App Name:** Grits Payment Tracker
 **Developer:** Mingming Li
-**Last Updated:** April 23, 2026
-**Contact:** grits.0119@gmail.com
+**Last Updated:** April 24, 2026  
+**Contact:** [grits.0119@gmail.com](mailto:grits.0119@gmail.com)
 
 ---
 
@@ -63,12 +63,14 @@ You may switch between modes at any time in the App's Settings.
 
 The App uses the following third-party services. Each operates under their own privacy policy, and your use of these features is also subject to their respective terms.
 
-| Service | Purpose | Their Privacy Policy |
-|---|---|---|
+
+| Service               | Purpose                                    | Their Privacy Policy                                                               |
+| --------------------- | ------------------------------------------ | ---------------------------------------------------------------------------------- |
 | **Firebase (Google)** | User authentication and cloud data storage | [firebase.google.com/support/privacy](https://firebase.google.com/support/privacy) |
-| **Google Firestore** | Cloud database for your card data | [policies.google.com/privacy](https://policies.google.com/privacy) |
-| **Plaid** | Optional bank account connection | [plaid.com/legal/#privacy-statement](https://plaid.com/legal/#privacy-statement) |
-| **OpenAI** | AI-powered statement reading and chat | [openai.com/policies/privacy-policy](https://openai.com/policies/privacy-policy) |
+| **Google Firestore**  | Cloud database for your card data          | [policies.google.com/privacy](https://policies.google.com/privacy)                 |
+| **Plaid**             | Optional bank account connection           | [plaid.com/legal/#privacy-statement](https://plaid.com/legal/#privacy-statement)   |
+| **OpenAI**            | AI-powered statement reading and chat      | [openai.com/policies/privacy-policy](https://openai.com/policies/privacy-policy)   |
+
 
 ---
 
@@ -126,7 +128,7 @@ When you use the Plaid integration:
 
 Your account data is retained as long as your account remains active.
 
-If you would like your cloud data removed, contact us at **grits.0119@gmail.com** from the email address associated with your account. We will process verified deletion requests within 30 days, subject to legal and fraud-prevention obligations.
+If you would like your cloud data removed, contact us at **[grits.0119@gmail.com](mailto:grits.0119@gmail.com)** from the email address associated with your account. We will process verified deletion requests within 30 days, subject to legal and fraud-prevention obligations.
 
 Local-only data (when cloud sync is off) exists solely on your device and can be removed by uninstalling the App.
 
@@ -136,7 +138,7 @@ Local-only data (when cloud sync is off) exists solely on your device and can be
 
 This App is not intended for use by individuals under the age of 13. We do not knowingly collect personal information from children under 13. If you are located in the European Union, you must be at least 16 years of age to use this App, or have verifiable parental consent.
 
-If you believe a child under the applicable age has provided us with personal information, please contact us at **grits.0119@gmail.com** and we will delete it promptly.
+If you believe a child under the applicable age has provided us with personal information, please contact us at **[grits.0119@gmail.com](mailto:grits.0119@gmail.com)** and we will delete it promptly.
 
 ---
 
@@ -161,7 +163,7 @@ Depending on where you live, you may have rights regarding your personal data, i
 - Request deletion of your data
 - Withdraw consent at any time (by disabling cloud sync or deleting your account)
 
-To exercise any of these rights, contact us at **grits.0119@gmail.com**.
+To exercise any of these rights, contact us at **[grits.0119@gmail.com](mailto:grits.0119@gmail.com)**.
 
 ---
 
@@ -176,7 +178,7 @@ We may update this Privacy Policy from time to time. When we do, we will update 
 If you have any questions, concerns, or requests regarding this Privacy Policy or your data, please contact:
 
 **Mingming Li**
-Email: **grits.0119@gmail.com**
+Email: **[grits.0119@gmail.com](mailto:grits.0119@gmail.com)**
 
 ---
 

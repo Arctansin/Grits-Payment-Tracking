@@ -1,5 +1,9 @@
 # Credit Card Tracker App
 
+- [Term of Use](https://arctansin.github.io/Grits-Payment-Tracking/Term-of-Use/)
+- [Data Disclosure](https://arctansin.github.io/Grits-Payment-Tracking/Data-Disclosure/)
+- [Privacy Policy](https://arctansin.github.io/Grits-Payment-Tracking/Privacy-Policy/)
+
 ## Product Requirements Document (PRD)
 
 ## 1. Overview
