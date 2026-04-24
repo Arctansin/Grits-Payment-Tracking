@@ -1,7 +1,6 @@
 ---
-
-## title: Data Disclosure
-
+title: "Data Disclosure"
 permalink: /Data-Disclosure/
+---
 
 {% include_relative DATA_DISCLOSURE.md %}
